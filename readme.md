@@ -15,3 +15,6 @@ Each directory contains details of an experiment carried out on the lattice (e.g
 
 ### old_scripts
 Contains old, improved iterations of the Ising Model 
+
+### find_eq
+Find the time taken for the lattice to reach equilibrium (and provide graphical evidence to satisfy user)
