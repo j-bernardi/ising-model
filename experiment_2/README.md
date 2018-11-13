@@ -1,6 +1,6 @@
 # Experiment 2
 Calculate the autocorrelation of the fluctuation for various lattice sizes and various temperatures
 
-Find the timescale tau over which u(t) x u(t+tau) decorrelates, where x is the autocorrelation operator.
+Find the timescale tau over which fluctuations in spin u(t) x u(t+tau) decorrelate, where x is the autocorrelation operator.
 
-This can be used to make an estimate of lattice energy
+Further experiments should only be performed when the lattice has decorrelated, for independent results
