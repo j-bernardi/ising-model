@@ -1,3 +1,5 @@
+# Ising Model
+
 Current:
 
 	main.py contains the lattice and spin-site objects, and all operations pertaining to updating the lattice.
